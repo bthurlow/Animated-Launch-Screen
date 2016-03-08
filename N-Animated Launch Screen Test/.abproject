@@ -1,0 +1,28 @@
+{
+  "ProjectName": "N-Animated Launch Screen Test",
+  "ProjectGuid": "6022ce08-749a-497f-8735-19eea9f855d7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NAnimatedLaunchScreenTest",
+  "DisplayName": "N-Animated Launch Screen Test",
+  "Author": "",
+  "Description": "N-Animated Launch Screen Test",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.5.2",
+  "Framework": "NativeScript"
+}
