@@ -21,8 +21,9 @@
     "Portrait",
     "Landscape"
   ],
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "true",
   "iOSStatusBarStyle": "Default",
   "FrameworkVersion": "1.5.2",
-  "Framework": "NativeScript"
+  "Framework": "NativeScript",
+  "iOSDeploymentTarget": "7.1"
 }
