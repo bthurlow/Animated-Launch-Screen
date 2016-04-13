@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bthurlow\Documents\GitHub\Animated-Launch-Screen\NALS\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="72b585c3baffa7cb9fbecc8dd37cd89a127f17f5">
+        <dex dex="C:\Users\bthurlow\Documents\GitHub\Animated-Launch-Screen\NALS\platforms\android\build\intermediates\pre-dexed\debug\nativescript_331a320e0acec5e478f661f4075f6699f3cb1ea4.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\bthurlow\Documents\GitHub\Animated-Launch-Screen\NALS\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_4d53806161c963d7085817c3ae8dd70af34d0268.jar" />
+    </item>
+
+</items>

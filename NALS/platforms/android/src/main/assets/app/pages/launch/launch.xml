@@ -1,0 +1,6 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onPageLoaded" actionBarHidden="true" backgroundColor="#778E78">
+  <GridLayout columns="*" rows="*,auto,*">
+    <Image row="1" col="0" id="launchImage" src="~/images/full_logo_lg.png" style="opacity:0;" stretch="aspectFit" />
+    <ActivityIndicator id="launchLoader" row="2" col="0" busy="false" />
+  </GridLayout>
+</Page>
